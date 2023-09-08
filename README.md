@@ -2,8 +2,6 @@
 <h3 align="center">I'm an IOS Developer from Saint-Petersburg, Russia.</h3>
 <img align="right" alt="Cat" width="400" src="https://media.tenor.com/MOsNcnmidrEAAAAC/peach-cat-animated.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a4re&label=Profile%20views&color=0e75b6&style=flat" alt="a4re" /> </p>
-
 - 🌱 I’m currently learning: **Java, Swift, SwiftUI, Combine**
 
 - 📫 How to reach me: **aakoval01@gmail.com** or tg: **@a4rk0v**
