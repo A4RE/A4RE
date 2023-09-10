@@ -6,7 +6,8 @@
 
 - 📫 How to reach me: **aakoval01@gmail.com** or tg: **@a4rk0v**
 
-- ⚡ Fun fact: **I like to watch Russian TV Series**
+- ⚡ Facts about me: **I'm interested in crypto and assets investing,
+- I like gym, watching Russian Series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
