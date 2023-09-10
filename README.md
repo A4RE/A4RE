@@ -2,7 +2,7 @@
 <h3 align="center">I'm an IOS Developer from Saint-Petersburg, Russia.</h3>
 <img align="right" alt="Cat" width="400" src="https://media.tenor.com/MOsNcnmidrEAAAAC/peach-cat-animated.gif">
 
-- 🌱 I’m currently learning: **Java, Swift, SwiftUI, Combine**
+- 🌱 I’m currently learning: **Java, Swift, SwiftUI, UIKit, Combine**
 
 - 📫 How to reach me: **aakoval01@gmail.com** or tg: **@a4rk0v**
 
