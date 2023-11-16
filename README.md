@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **aakoval01@gmail.com** or tg: **@a4rk0v**
 
-- ⚡ Facts about me: **I'm interested in investing in crypto and stocks market; I like go to the gym, go for walk, watching hockey and F1 with friends**
+- ⚡ Facts about me: **I'm interested in investing in crypto and stocks market; I like go to the gym, watching different kind of sports championships like: hockey, Formula 1 (I'm a fan of Sergio Pérez in RedBull Team and all Mclaren Team), tennis, football with friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
