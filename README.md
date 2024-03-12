@@ -2,11 +2,9 @@
 <h3 align="center">I'm an IOS Developer from Saint-Petersburg, Russia.</h3>
 <img align="right" alt="Cat" width="400" src="https://media.tenor.com/MOsNcnmidrEAAAAC/peach-cat-animated.gif">
 
-- 🌱 I’m currently learning: **Swift, SwiftUI, UIKit**
+- 🌱 I’m interested in: **IOS Dev
 
-- 📫 How to reach me: **aakoval01@gmail.com** or tg: **@a4rk0v**
-
-- ⚡ Facts about me: **I'm interested in investing in crypto and stocks market; I like go to the gym, watching different kind of sports championships like: hockey, Formula 1 (I'm a fan of Sergio Pérez in RedBull Team and all Mclaren Team), tennis, football with friends**
+- 📫 How to reach me: **aakoval01@gmail.com** or telegram: **@a4rk0v**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +22,3 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=a4re&show_icons=true&locale=en" alt="a4re"/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=a4re&" alt="a4re" /></p>
