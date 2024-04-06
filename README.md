@@ -2,7 +2,7 @@
 <h3 align="center">I'm an IOS Developer from Saint-Petersburg, Russia.</h3>
 <img align="right" alt="Cat" width="400" src="https://media.tenor.com/MOsNcnmidrEAAAAC/peach-cat-animated.gif">
 
-- 🌱 I’m interested in: **IOS Dev
+- 🌱 I’m interested in: **IOS Dev** and **Math**
 
 - 📫 How to reach me: **aakoval01@gmail.com** or telegram: **@a4rk0v**
 
