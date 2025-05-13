@@ -9,7 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/andrey.kovalenkoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrey.kovalenkoa" height="30" width="40" /></a>
-<a href="https://t.me/your_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="your_username" height="30" width="40" />
+<a href="https://t.me/a4rk0v" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="a4rk0v" height="30" width="40" />
 </a>
 </p>
 
