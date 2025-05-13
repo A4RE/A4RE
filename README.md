@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A4RE</h1>
-<h3 align="center">I'm an IOS Developer from Saint-Petersburg, Russia.</h3>
+<h3 align="center">I'm an iOS Developer from Saint-Petersburg, Russia.</h3>
 <img align="right" alt="Cat" width="400" src="https://media.tenor.com/MOsNcnmidrEAAAAC/peach-cat-animated.gif">
 
 - 🌱 I’m interested in: **IOS Dev** and **Math**
